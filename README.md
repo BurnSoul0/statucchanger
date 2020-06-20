@@ -1,2 +1,2 @@
-# statucchanger
-That's script change your status
+StatusChanger for VK
+Just request to status.set and no more :)
